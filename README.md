@@ -12,4 +12,4 @@ So that we can now look at developers as numbers, and not people.
 
 No, I'm not a web developer. Yes, nearly all my repos are websites. Don't ask about it.
 
-I'm currently learning AI and machine learning, using the Tensorflow API.
+I'm currently learning AI and machine learning.
