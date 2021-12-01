@@ -1,12 +1,11 @@
-### Hi there 👋
+I like:
+  - theoretical computer science
+  - machine learning
+  - cloud systems
+  - distributed computing
+  - all topics computers :)
 
-Welcome, tourists! 
+I tweet on https://twitter.com/francisdienti
+I chat on https://discord.com/. My handle is francis#8003.
 
-This is a really barebones README. Therefore, I have included what seems to be in every 10x developer's GitHub README:
-
-Statistics!
-So that we can now look at developers as numbers, and not people.
-
-[![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisdbillones)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm currently learning AI and machine learning.
+I don't have a motto but I value competency.
