@@ -1,11 +1,3 @@
-I like:
-  - theoretical computer science
-  - machine learning
-  - cloud systems
-  - distributed computing
-  - all topics computers :)
+I study [Computer Systems Engineering](https://www.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-cse/) at [De La Salle University](https://www.dlsu.edu.ph/).
 
-I tweet on https://twitter.com/francishubertdb. </br>
-I chat on https://discord.com/. My handle is francisdbillones.</br>
-
-I value competency and integrity.
+Read my random thoughts on my online [journal](https://journal.francisdb.net/)!
